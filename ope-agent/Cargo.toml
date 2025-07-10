@@ -1,0 +1,6 @@
+[package]
+name = "ope-agent"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
